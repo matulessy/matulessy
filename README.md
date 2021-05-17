@@ -2,7 +2,7 @@
 - 👀 I’m interested in starting my own business
 - 🌱 I’m currently learning general coding.
 - 💞️ I’m looking to collaborate when I have more experience.
-- 📫 How to reach me: Reach my via Github or LinkedIn!
+- 📫 How to reach me: Reach my via LinkedIn!
 
 <!---
 matulessy/matulessy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
